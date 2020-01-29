@@ -18,5 +18,5 @@ namespace sensors {
         }
     }
 
-    //export const arduino1 = new ArduinoIICSensor(1)
+    export const arduino1 = new ArduinoIICSensor(1)
 }
