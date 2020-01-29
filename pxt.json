@@ -2,8 +2,7 @@
     "name": "arduino",
     "description": "",
     "dependencies": {
-        "ev3": "*",
-        "Untitled": "github:foreversnoopy/pxt-arduino#master"
+        "ev3": "*"
     },
     "files": [
         "main.blocks",
