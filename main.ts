@@ -17,7 +17,8 @@ namespace sensors {
         }
 
         getAll() {
-            return this.getDHT()
+            this.transaction(this.iicAddress, [], 8)
+            return this.getBytes()
         }
 
         _IICId() {
