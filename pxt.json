@@ -1,8 +1,9 @@
 {
-    "name": "Untitled",
+    "name": "Arduino IIC",
     "description": "",
     "dependencies": {
-        "ev3": "*"
+        "ev3": "*",
+        "Untitled": "github:foreversnoopy/pxt-arduino#master"
     },
     "files": [
         "main.blocks",
