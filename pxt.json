@@ -1,5 +1,5 @@
 {
-    "name": "Arduino IIC",
+    "name": "ArduinoIIC",
     "description": "",
     "dependencies": {
         "ev3": "*",
